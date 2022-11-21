@@ -1,3 +1,2 @@
-./k3d-2.14.5-py3-none-any.whl
 scipy
-
+./k3d-2.14.5-py2.py3-none-any.whl
